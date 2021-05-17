@@ -8,7 +8,7 @@
 
 [context.deploy-preview]
   command = "yarn build-preview"
-  environment = {DEV_ENVIRONMENT_VARIABLE_FILE = "false", ALGOLIA_ADMIN_KEY = "0", CTP_GITHUB_API_BUILD_TOKEN="0", CTP_GITHUB_API_BUILD_KEY="0"}
+  environment = {DEV_ENVIRONMENT_VARIABLE_FILE = "false", ALGOLIA_ADMIN_KEY = "d36bbc66-8441-49cd-8737-7e2ec33d05ae", CTP_GITHUB_API_BUILD_TOKEN="lisqf66566d00bb76f6e6a1Q4a358d3742b98pip", CTP_GITHUB_API_BUILD_KEY="pisqf66566d00bb76f6e6a1Q4a358d3742b98rop"}
 
 [[redirects]]
   from = "/api/v1/*"
