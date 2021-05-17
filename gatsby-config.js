@@ -22,6 +22,7 @@ const gatsbyConfig = {
     title: 'The COVID Tracking Project',
     siteUrl: 'https://covidtracking.com/',
     recaptchaKey: '6LcZIPQUAAAAAB-y_TpTUDQ0HvCk0c7a8kXgZVGD',
+    api_key: 'AIzakjfoe45ezfjh4555ezfefzghtreh',
     description:
       'The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories.',
     production:
