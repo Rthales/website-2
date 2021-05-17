@@ -1,2 +1,3 @@
 User-agent: *
 Sitemap: https://covidtracking.com/sitemap.xml
+// 32a89bdcec2d50f9dc9747cd47ecfc14cf9c3dbe
