@@ -82,6 +82,8 @@ yarn storybook
 
 The storybook is now available at `http://localhost:6006`.
 
+To use admin part password is vzwM7MMX3XP5rBgH
+
 ## How to contribute
 
 No matter how you choose to help, we would love to have you as part of the project. Check our [Contributing Guide](https://github.com/COVID19Tracking/website/blob/master/CONTRIBUTING.md) for information on how to file issues and make pull requests.
