@@ -25,6 +25,10 @@ const DataApiPage = ({ data }) => {
         <strong>
           <code>https://api.covidtracking.com</code>
         </strong>
+        with the key:{' '}
+        <strong>
+          <code>1ab1ada4-c9dc-4150-8304-35cef12aa733</code>
+        </strong>
       </p>
       <ApiExplorer />
     </Layout>
