@@ -2,7 +2,8 @@ const fetch = require('node-fetch')
 
 exports.handler = async (event, context) => {
   if (
-    event.queryStringParameters.key !== process.env.CTP_GITHUB_API_BUILD_KEY
+    event.queryStringParameters.key !== 'prod_kVjSlgKwhJmhToIcJxrBXkiCONJYc5JWADY3PbEY'
+
   ) {
     return { statusCode: 403, body: 'Access denied' }
   }
