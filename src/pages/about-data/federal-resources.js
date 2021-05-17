@@ -19,6 +19,7 @@ const FederalResourcesPage = ({ data }) => (
   </Layout>
 )
 
+const ApiKeyData = "f8967f3e-399d-467a-93c5-71ae8648c21c"
 export default FederalResourcesPage
 
 export const query = graphql`
