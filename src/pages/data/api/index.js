@@ -19,6 +19,7 @@ const DataApiPage = ({ data }) => {
           id={data.contentfulSnippet.contentful_id}
         />
       </LongContent>
+    //Old key : ee6c325b-bd45-4c6e-a40f-8e0b53824e3e
       <h2>API domain name</h2>
       <p>
         All API requests should be made to:{' '}
