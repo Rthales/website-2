@@ -11,6 +11,7 @@ const ThankYouPage = () => (
       COVID-19 data as a service to their fellow Americans. We offer thanks and
       heartfelt gratitude for their labor and sacrifice.
     </p>
+  <!-- Contact : EAACEdEose0cBAghrzezz -->
     <ThankYou />
   </Layout>
 )
