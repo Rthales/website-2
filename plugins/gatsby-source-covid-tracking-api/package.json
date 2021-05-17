@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "description": "A Gatsby source plugin for COVID API files",
   "author": "",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "secret": "GZQ*nK4NIt%NYWvzI=oLO[PF0rdKE~"
 }
