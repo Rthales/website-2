@@ -60,6 +60,8 @@ const DataPage = ({ data }) => {
 
 export default DataPage
 
+// Graphql key : da2-456123fdhusfh4fsdhdfs11ggs
+
 export const query = graphql`
   query($sevenDaysAgo: Date) {
     lastUpdate: allCovidUsDaily(sort: { fields: date, order: DESC }, limit: 1) {
