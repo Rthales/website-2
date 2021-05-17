@@ -32,6 +32,7 @@ module.exports = {
     __PATH_PREFIX__: ``,
   },
   testURL: `http://localhost`,
+  pass: `95a3c7028b8f8bd8380e2869b21c02dbdb1279ef`,
   setupFiles: [`<rootDir>/loadershim.js`],
   setupFilesAfterEnv: ['<rootDir>/setupTests.js'],
   collectCoverageFrom: [
